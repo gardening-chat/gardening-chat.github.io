@@ -2,7 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: darkgarden
 search_enabled: false
 title: Gardening Chat
-description: A place to talk about gardening.
+footer_content: "Grow things. Have fun."
 aux_links:
   "Chat now":
     - "https://kiwiirc.com/client/chat.freenode.net/##gardening"
