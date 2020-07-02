@@ -17,3 +17,7 @@ Participants who are engaging in bad faith interactions will be asked to leave a
 Ban duration will be at the sole discretion of the ops/moderators. Repeat offenses and ban evasion will severely extend the length of a ban.
 
 Please do not publish logs publically or bring in bots or noisy client scripts without the consent of the ops/moderators.
+
+The current ops/moderators are:
+* el
+* emmeka
