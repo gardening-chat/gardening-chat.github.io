@@ -3,3 +3,6 @@ color_scheme: darkgarden
 search_enabled: false
 title: Gardening Chat
 description: A place to talk about gardening.
+aux_links:
+  "Chat now":
+    - "https://kiwiirc.com/client/chat.freenode.net/##gardening"
