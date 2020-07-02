@@ -2,7 +2,7 @@
 
 Discussion about restricted plants (eg, marijuana) is allowed but we strongly prefer that discussions stick to the growing of the plant, not the processing or consumption of it.
 
-Discussions about unrelated politics should be left at the door. We make some allowance for politics relevant to gardening and farming, but this community is not the place for general political discourse.
+Discussions about unrelated politics should be left at the door. We make some allowance for politics relevant to gardening and farming, but this community is not the place for general political discourse. Ideological conversations (eg, vegan vs meat-eating, organic vs conventional, permaculture vs rotational cropping, etc) can become heated and personal, so please respect other people's choices instead of trying to convert them.
 
 Our community is a blend of people with means who grow for income or hobby and people who need to grow their own food. We expect that all participants be respectful and kind to one another. We expect that people will listen to the requests of everyone in the channel, not just the ops/moderators. If anyone indicates they are uncomfortable with a particular discussion then we expect everyone else to respect that and move on.
 
