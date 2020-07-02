@@ -6,3 +6,5 @@ description: A place to talk about gardening.
 aux_links:
   "Chat now":
     - "https://kiwiirc.com/client/chat.freenode.net/##gardening"
+  "This site on github":
+    - "https://github.com/gardening-chat/gardening-chat.github.io"
