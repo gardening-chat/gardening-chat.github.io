@@ -1,4 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
+search_enabled: false
 title: Gardening Chat
 description: A place to talk about gardening.
