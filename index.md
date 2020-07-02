@@ -6,5 +6,5 @@ Gardening chat is intended for the discussion of gardening, farming, and growing
 
 Both green thumbs and brown thumbs are welcome here!
 
-You can join the community by connecting to the [freenode](https://freenode.net} irc network and [joining the ##gardening channel (webchat link)](http://kiwiirc.com/client/chat.freenode.net/##gardening).
+You can join the community by connecting to the [freenode](https://freenode.net) irc network and [joining the ##gardening channel (webchat link)](http://kiwiirc.com/client/chat.freenode.net/##gardening).
 
