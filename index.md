@@ -6,5 +6,9 @@ Gardening chat is intended for the discussion of gardening, farming, and growing
 
 Both green thumbs and brown thumbs are welcome here!
 
-You can join the community by connecting to the [freenode](https://freenode.net) irc network and [joining the ##gardening channel (webchat link)](https://kiwiirc.com/client/chat.freenode.net/##gardening). The channel requires you to have an account to talk. If you don't have one, learn [how to register](https://freenode.net/kb/answer/registration).
+You can join the community by: 
+* connecting to the [freenode](https://freenode.net) irc network and [joining the ##gardening channel (webchat link)](https://kiwiirc.com/client/chat.freenode.net/##gardening)
+* by joining via Matrix, we're listed as "##gardening".
+
+Sometimes the channel might require you to have a freenode.net account to talk, to prevent abuse and spam. If you don't have one, learn [how to register](https://freenode.net/kb/answer/registration). If you're accessing the channel via Matrix, then you'll need to Direct message @freenode_NickServ:matrix.org with "help register" or "help identify".
 
