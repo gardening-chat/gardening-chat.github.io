@@ -6,7 +6,7 @@ Discussions about unrelated politics should be left at the door. We make some al
 
 Our community is a blend of people with means who grow for income or hobby and people who need to grow their own food. We expect that all participants be respectful and kind to one another. We expect that people will listen to the requests of everyone in the channel, not just the ops/moderators. If anyone indicates they are uncomfortable with a particular discussion then we expect everyone else to respect that and move on.
 
-Behavior forbidden by [freenode network policy](https://freenode.net/policies#off-topic-use) is banned in this channel.
+Behavior forbidden by [Libera.Chat network policy](https://libera.chat/policies) is banned in this channel.
 
 Participants who are engaging in bad faith interactions will be asked to leave at the sole discretion of the ops/moderators. Examples of bad faith interactions include but are not limited to:
 
