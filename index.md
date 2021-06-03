@@ -7,8 +7,8 @@ Gardening chat is intended for the discussion of gardening, farming, and growing
 Both green thumbs and brown thumbs are welcome here!
 
 You can join the community by: 
-* connecting to the [freenode](https://freenode.net) irc network and [joining the ##gardening channel (webchat link)](https://kiwiirc.com/client/chat.freenode.net/##gardening)
-* joining via Matrix, we're listed as `#freenode_##gardening:matrix.org`
+* connecting to the [Libera Chat](https://libera.chat) irc network and [joining the ##gardening channel (webchat link)](https://kiwiirc.com/client/irc.libera.chat/##gardening)
+* joining via Matrix, we're listed as `##gardening:libera.chat`
 
-Sometimes the channel might require you to have a freenode.net account to talk, to prevent abuse and spam. If you don't have one, learn [how to register](https://freenode.net/kb/answer/registration). If you're accessing the channel via Matrix, then you'll need to Direct message `@freenode_NickServ:matrix.org` with "help register" or "help identify".
+Sometimes the channel might require you to have a Libera.Chat account to talk, to prevent abuse and spam. If you don't have one, learn [how to register](https://libera.chat/guides/registration). If you're accessing the channel via Matrix, then you'll need to Direct message `NickServ:libera.chat` with "help register" or "help identify".
 
