@@ -1,10 +1,40 @@
-remote_theme: pmarsceill/just-the-docs
-color_scheme: darkgarden
-search_enabled: false
-title: Gardening Chat
-footer_content: "Grow things. Have fun."
-aux_links:
-  "Chat now":
-    - "https://kiwiirc.com/client/chat.freenode.net/##gardening"
-  "This site on github":
-    - "https://github.com/gardening-chat/gardening-chat.github.io"
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "Gardening Chat community"
+keywords:    "gardening, farming, growing"
+description: "An IRC community for talking about gardening and farming."
+source_link: "https://github.com/gardening-chat/gardening-chat.github.io"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  dkgreen:   '#5d7c1c'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  brown:     '#654321'
+
+kramdown:
+  auto_ids:  false
+
